@@ -81,6 +81,14 @@
             "ext": "https://gitee.com/cpu-iy/iy/raw/master/lib/%E8%97%A4%E8%97%A4.png"
         },
         {
+            "key": "藤藤",
+            "name": "腾讯丨[官js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            //"ext": "http://rihou.cc:88/js/腾腾.js"
+            "ext": "https://gitee.com/cpu-iy/iy/raw/master/lib/%E8%97%A4%E8%97%A4.png"
+        },
+        {
             "key": "腾腾",
             "name": "🐧腾腾┃[官]JX",
             "type": 3,
@@ -92,7 +100,7 @@
             "name": "🐴奇奇┃[官]JX",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "http://rihou.cc:88/js/奇奇.js"
+            "ext": "https://gitee.com/cpu-iy/lib/raw/master/lib/%E5%A5%87%E5%A5%87.png"
         },
         {
             "key": "茫茫",
