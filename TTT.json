@@ -116,7 +116,7 @@
       "key": "drpy2_豆瓣[官]",
       "name": "豆瓣[官](DR2)",
       "type": 3,
-      "api": "./libs/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
