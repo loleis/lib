@@ -92,7 +92,7 @@
 	  */
 
         /*------------结束-----------路飞 https://gh.llkk.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json-------------------*/
-  
+  /*保留
 	  {
       "key":"drpy_js_豆瓣",
       "name":"搜索 | 路飞豆瓣[js]",
@@ -104,6 +104,7 @@
       "quickSearch":0,
       "changeable":0
       },
+	  不用*/
 	{
             "key": "豆瓣js",
             "name": "豆瓣丨[官]JX",
@@ -112,18 +113,7 @@
             "ext": "./js/豆瓣[官].js"
         },
 	  
-    {
-      "key": "drpy2_豆瓣[官]",
-      "name": "豆瓣[官](DR2)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "title": "豆瓣[官]",
-      "lang": "dr2",
-      "ext": "https://gitea.com/qcfree2026/peek/raw/branch/main/drpy_js/豆瓣[官].js"
-    },
+    
 	{
       "key": "drpyS_蜻蜓FM[听]",
       "name": "蜻蜓FM[听]",
