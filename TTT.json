@@ -122,7 +122,7 @@
       "quickSearch": 1,
       "title": "豆瓣[官]",
       "lang": "dr2",
-      "ext": "https://gitea.com/qcfree2026/peek/drpy_js/豆瓣[官].js"
+      "ext": "https://gitea.com/qcfree2026/peek/raw/branch/main/drpy_js/豆瓣[官].js"
     },
 	{
       "key": "drpyS_蜻蜓FM[听]",
@@ -135,7 +135,7 @@
       "title": "蜻蜓FM[听]",
       "类型": "音乐",
       "lang": "ds",
-      "ext": "https://gitea.com/qcfree2026/peek/raw/branch/main/drpy_js/%E8%9C%BB%E8%9C%93FM%5B%E5%90%AC%5D.js"
+      "ext": "https://gitea.com/qcfree2026/peek/raw/branch/main/drpy_js/蜻蜓.js"
     },
 	 
       
