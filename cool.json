@@ -50,6 +50,13 @@
             "api": "csp_Douban",
             "searchable": 0
         },
+		{
+            "key": "豆瓣js",
+            "name": "豆瓣丨[官]JX",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/豆瓣[官].js"
+        },
         {
             "key": "配置中心",
             "name": "配置中心",
