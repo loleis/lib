@@ -112,7 +112,39 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./js/豆瓣[官].js"
         },
-	  
+	  {
+			"key": "网盘配置",
+			"name": "网盘及彈幕配置",
+			"type": 3,
+			"api": "csp_Config",
+			"searchable": 0,
+			"changeable": 0,
+			"ext": "./json/tokenm.json",
+			"order_num": 9999
+		},		
+		{
+			"key": "yyds",
+			"name": "多多影音|[TV]网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "./json/tokenm.json$$$https://tv.yydsys.cc/$$$proxy$$$1$$$./json/wogg.json",
+			"order_num": 9999
+		},	
+			{
+			"key": "hipy_js_多多影音",
+			"name": "多多影音[TV]",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./js/多多影音.js"
+		},
     
 	{
       "key": "drpyS_蜻蜓FM[听]",
@@ -125,7 +157,7 @@
       "title": "蜻蜓FM[听]",
       "类型": "音乐",
       "lang": "ds",
-      "ext": "https://gitea.com/qcfree2026/peek/raw/branch/main/drpy_js/蜻蜓.js"
+      "ext": "./js/蜻蜓FM.js"
     },
 	 
       
