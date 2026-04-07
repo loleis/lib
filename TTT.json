@@ -155,7 +155,7 @@
       "key": "drpyS_蜻蜓FM[听]",
       "name": "蜻蜓FM[听]",
       "type": 4,
-      "api": "./drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 0,
       "filterable": 0,
       "quickSearch": 0,
