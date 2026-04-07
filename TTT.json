@@ -90,7 +90,7 @@
 		},
 
         /*------------结束-----------路飞 https://gh.llkk.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json-------------------*/
-   /*----保留不用
+  
 	  {
       "key":"drpy_js_豆瓣",
       "name":"搜索 | 豆瓣[js]",
@@ -102,13 +102,13 @@
       "quickSearch":0,
       "changeable":0
       },
-	-----结束  */
+	
 	  
     {
       "key": "drpy2_豆瓣[官]",
       "name": "豆瓣[官](DR2)",
       "type": 3,
-      "api": "https://gitea.com/qcfree2026/peek/drpy_libs/drpy2.min.js",
+      "api": ".libs/drpy2.min.js",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
