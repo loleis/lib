@@ -78,7 +78,8 @@
 
 /*---------------开始--------路飞 https://gh.llkk.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json-------------------*/
 {
-  "spider": "",
+  "spider": "http://rihou.cc:88/jar/vox.jar;md5;ccbbaf9a8eb24e3c710884cb82b668f2",
+	"spider": "./jar/vox.jar;md5;ccbbaf9a8eb24e3c710884cb82b668f2",
   "sites": [
     /* 失效
 	  {
@@ -152,7 +153,7 @@
       "key": "drpyS_蜻蜓FM[听]",
       "name": "蜻蜓FM[听]",
       "type": 4,
-      "api": "*/drpy2.min.js",
+      "api": "./drpy2.min.js",
       "searchable": 0,
       "filterable": 0,
       "quickSearch": 0,
