@@ -119,6 +119,7 @@
 			"api": "csp_Config",
 			"searchable": 0,
 			"changeable": 0,
+		  "jar": "https://gitlab.com/duomv/dzhipy/-/raw/main/jar/pg.jar?md5=7633f8ea346c082b7aa163be58aed023",
 			"ext": "./json/tokenm.json",
 			"order_num": 9999
 		},		
