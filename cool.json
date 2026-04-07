@@ -79,6 +79,21 @@
             "searchable": 0,
             "changeable": 0
         },
+
+		{
+            "key": "36直播",
+            "name": "36直播[密]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/36直播[密].js"
+        },
+		{
+            "key": "360影视",
+            "name": "360影视[官]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/360影视[官].js"
+        },
         {
             "key": "藤藤",
             "name": "腾讯丨天神4K",
