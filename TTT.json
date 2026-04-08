@@ -148,7 +148,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./js/多多影音.js"
+			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/js/多多影音.js"
 		},
     
 	{
